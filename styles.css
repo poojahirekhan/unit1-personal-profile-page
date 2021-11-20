@@ -65,6 +65,8 @@
   header {
     line-height: 1.5;
   }
+
+  
   header .profile-image {
     margin-top: 50px;
     width: 150px;
@@ -103,7 +105,7 @@
     border-color: #ff99ff;
   }
 
-  h2, p{
+  .middle h2 ,p{
     text-align: center;
   }
 
