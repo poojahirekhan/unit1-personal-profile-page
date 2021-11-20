@@ -79,6 +79,10 @@
     transform: scale(1.2) rotate(5deg);
     border: 3px solid black;
   }
+  a .logo:hover {
+    transform: scale(1.2) rotate(5deg);
+    border: 3px solid black;
+  }
   .tag {
     background-color: #efefef;
     color: black;
@@ -153,6 +157,8 @@
     display: inline-block;
   }
 
+ 
+
   li.social{
 
     display: inline-block;
@@ -170,6 +176,9 @@
 
   a.linkedin {
     background-image: url(images/linkedin.svg);
+  }
+  a.logo {
+    background-image: url(images/logo3.png);
   }
 
   a.github {
