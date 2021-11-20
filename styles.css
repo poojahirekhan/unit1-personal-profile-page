@@ -179,6 +179,7 @@
   }
   a.logo {
     background-image: url(images/logo3.png);
+    font-weight: 700;
   }
 
   a.github {
@@ -254,6 +255,7 @@
 
     .nav {
       max-width: 1200px;
+
     }
 
     .nav .name {
